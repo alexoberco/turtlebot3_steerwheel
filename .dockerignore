@@ -1,0 +1,4 @@
+# Ignorar los artefactos de colcon
+build/
+install/
+log/
